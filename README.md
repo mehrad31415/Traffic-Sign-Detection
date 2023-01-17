@@ -1,5 +1,5 @@
 # Traffic-Sign-Detection
-This was the final project for the computer vision course.
+This was the final project for the computer vision course written in python using OpenCV & Tensorflow libraries.
 
 
 
